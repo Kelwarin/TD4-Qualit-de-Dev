@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class Dataset {
 
-	private Collection<Transaction> trans;
+	/*private Collection<Transaction> trans;
 	private Article[] articles;
 
 	private static Dataset dataset;
@@ -55,7 +55,7 @@ public class Dataset {
 	public ArrayList<Motif> motifParser() throws IOException {
 		
 		//TODO
-	}
+	}*/
 
 
 
